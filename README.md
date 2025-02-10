@@ -67,6 +67,7 @@ This table shows the acceptance rate, the corresponding probability threshold, a
 
 - Profit matrix consulting the strategy table
 - Used 0.4 acceptance rate
+  
 | pred_loan_status_0.4_acc | 0              | 1              |
 |----------------------------|---------------|---------------|
 | **true_loan_status**       |               |               |
