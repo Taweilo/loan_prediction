@@ -64,3 +64,11 @@ This table shows the acceptance rate, the corresponding probability threshold, a
 | 0.05            | 0.000     | 0.012    |
 
 ![Strategy Chart](https://github.com/user-attachments/assets/4ea5d41b-2d5c-4750-b685-997834ca4c3c)
+
+- Profit matrix consulting the strategy table
+- Used 0.4 acceptance rate
+| pred_loan_status_0.4_acc | 0              | 1              |
+|----------------------------|---------------|---------------|
+| **true_loan_status**       |               |               |
+| 0                          | $7,472,474.55  | $36,470,280.15 |
+| 1                          | $191,847.87    | $12,393,372.42 |
